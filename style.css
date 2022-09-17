@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    color: white;
+    background-color:black;
+
+  
+  }
+  
+  main {
+    text-align: center;
+    height: 100%;
+  }
+  
+  p {
+    padding: 2rem;
+    text-align: left;
+    font-size: large;
+  }
+  
+  .box{
+    border: 1px solid black;
+    width: 60% ;
+    background-color:rgb(43, 8, 8);
+  }
+  
+  img{
+    height: 5%;
+    padding-top: 30px;
+    width: 80%;
+    margin-left: 10%;
+  }
+  
